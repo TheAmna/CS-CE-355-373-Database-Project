@@ -72,38 +72,6 @@
         <height>588</height>
        </rect>
       </property>
-      <widget class="QLabel" name="labelPic">
-       <property name="geometry">
-        <rect>
-         <x>40</x>
-         <y>20</y>
-         <width>100</width>
-         <height>100</height>
-        </rect>
-       </property>
-       <property name="styleSheet">
-        <string notr="true">border: 1px solid #ccc; background-color: #ffffff;</string>
-       </property>
-       <property name="text">
-        <string>Profile Picture</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
-       </property>
-      </widget>
-      <widget class="QPushButton" name="btnUploadPic">
-       <property name="geometry">
-        <rect>
-         <x>50</x>
-         <y>130</y>
-         <width>80</width>
-         <height>25</height>
-        </rect>
-       </property>
-       <property name="text">
-        <string>Upload</string>
-       </property>
-      </widget>
       <widget class="QLabel" name="labelName">
        <property name="geometry">
         <rect>
